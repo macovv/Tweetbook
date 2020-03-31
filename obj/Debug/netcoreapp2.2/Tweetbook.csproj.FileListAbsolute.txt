@@ -1,0 +1,16 @@
+E:\projekty\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\projekty\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\appsettings.json
+E:\projekty\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\projekty\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Tweetbook.deps.json
+E:\projekty\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Tweetbook.runtimeconfig.json
+E:\projekty\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Tweetbook.runtimeconfig.dev.json
+E:\projekty\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Tweetbook.dll
+E:\projekty\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.csprojAssemblyReference.cache
+E:\projekty\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.RazorAssemblyInfo.cache
+E:\projekty\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.RazorAssemblyInfo.cs
+E:\projekty\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.AssemblyInfoInputs.cache
+E:\projekty\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.AssemblyInfo.cs
+E:\projekty\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.RazorTargetAssemblyInfo.cache
+E:\projekty\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Tweetbook.pdb
+E:\projekty\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.dll
+E:\projekty\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.pdb
