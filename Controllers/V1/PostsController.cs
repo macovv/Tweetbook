@@ -36,6 +36,32 @@ namespace Tweetbook.Controllers
             return Ok(post);
         }
 
+        [HttpPut(ApiRoutes.Posts.Update)]
+        public IActionResult Update([FromRoute] Guid postId, [FromBody] UpdatePostRequest request)
+        {
+            var post = new Post
+            {
+                Id = postId,
+                Name = request.Name
+            };
+
+            var updated = _postService.UpdatePost(post);
+
+            if(updated)
+                return Ok(post);
+            return NotFound();
+        }
+
+        [HttpDelete(ApiRoutes.Posts.Delete)]
+        public IActionResult Delete([FromRoute] Guid postId)
+        {
+            var result = _postService.DeletePost(postId);
+            if (result)
+                return NoContent();
+
+            return NotFound();
+        }
+
         [HttpPost(ApiRoutes.Posts.Create)]
         public async Task<IActionResult> Create([FromBody] CreatePostRequest postRequest)
         {
