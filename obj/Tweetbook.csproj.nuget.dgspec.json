@@ -41,6 +41,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "Cosmonaut": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "Cosmonaut.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
